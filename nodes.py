@@ -39,7 +39,7 @@ class SVDQuantExtrasFluxLoraLoaderSimple:
     FUNCTION = "load_lora"
     TITLE = "SVDQuant Extras FLUX.1 LoRA Loader (Simple)"
 
-    CATEGORY = "SVDQuant"
+    CATEGORY = "SVDQuantExtras"
     DESCRIPTION = (
         "Use this node to load only converted LoRA's! "
         "LoRAs are used to modify the diffusion model, "
